@@ -23,7 +23,9 @@ CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
 
-
+浙江｜宁波都市,http://www.372583307.top:4022/udp/233.50.201.179:5140
+浙江｜宁波影视,http://www.372583307.top:4022/udp/233.50.201.180:5140
+浙江｜宁波少儿,http://www.372583307.top:4022/udp/233.50.201.181:5140
 
 
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
