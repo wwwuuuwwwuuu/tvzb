@@ -30,6 +30,12 @@ CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 宁波电视台2套,http://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1704859204-0-0-ef975485c4ccf27629f2a67787e6be43
 宁波电视台3套,http://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1704858185-0-0-f9a872e25d9ff15e5ebb94606900652c
 宁波4套影视频道,http://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1704861382-0-0-e6d7519961e6c074fd44c35c835eb29d
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8
 
 
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
