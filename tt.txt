@@ -23,7 +23,7 @@ CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
 
-宁波电视台1套,http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1704861667-0-0-4a6a219e17aa19da23a5cc4a35bf7812
+宁波电视台1套,https://liveplay8.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1704961415-0-0-581bcd3e4f2869c9e531754a8a673d11
 宁波电视台2套,http://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1704859204-0-0-ef975485c4ccf27629f2a67787e6be43
 宁波电视台3套,http://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1704858185-0-0-f9a872e25d9ff15e5ebb94606900652c
 宁波4套影视频道,http://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1704861382-0-0-e6d7519961e6c074fd44c35c835eb29d
