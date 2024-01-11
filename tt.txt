@@ -26,6 +26,7 @@ CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 宁波电视台1套,http://183.129.242.178:3333/tsfile/live/1010_1.m3u8
 宁波电视台1套,http://www.372583307.top:4022/udp/233.50.201.168:5140
 宁波电视台1套,http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
+宁波电视台1套,http://liveplay.nbtv.cn/live/nbtv1_sd.m3u8
 宁波电视台2套,http://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1704859204-0-0-ef975485c4ccf27629f2a67787e6be43
 宁波电视台3套,http://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1704858185-0-0-f9a872e25d9ff15e5ebb94606900652c
 宁波4套影视频道,http://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1704861382-0-0-e6d7519961e6c074fd44c35c835eb29d
